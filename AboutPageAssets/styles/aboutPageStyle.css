@@ -30,9 +30,7 @@ header .logoPlaceholder span {
 }
 header .profilePhoto {
 	width: 259px;
-	border-radius: 50%;
 	height: 259px;
-	clear: both;
 }
 header .profileHeader h1 {
 	font-family: 'Montserrat', sans-serif;
@@ -343,6 +341,7 @@ header .profilePhoto {
 	float: left;
 	clear: both;
 	margin-right: 3%;
+	margin-top: 56px;
 }
 header .profileHeader {
 	text-align: left;
